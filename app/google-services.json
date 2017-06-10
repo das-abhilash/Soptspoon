@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45427545247",
+    "firebase_url": "https://hellochat-24f57.firebaseio.com",
+    "project_id": "hellochat-24f57",
+    "storage_bucket": "hellochat-24f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45427545247:android:a8576d2b86680c68",
+        "android_client_info": {
+          "package_name": "in.zollet.abhilashdas.hellochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45427545247-acvk8s9k6orpjfi6olhnfdgmkj8fdknu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.zollet.abhilashdas.hellochat",
+            "certificate_hash": "cfdd200b385062efa2c05a914840df9a9ebc9364"
+          }
+        },
+        {
+          "client_id": "45427545247-aih41oa5puf4rfu9li967s1ags5j5oah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHBllvw_OpNDOKUJ5dk9BkDfoTc8L67Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45427545247-aih41oa5puf4rfu9li967s1ags5j5oah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
